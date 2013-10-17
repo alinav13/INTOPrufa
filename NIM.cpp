@@ -31,6 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Thetta er svo skemmtilegt";
 	int val;
 	do
 	{
